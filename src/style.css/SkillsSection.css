@@ -1,0 +1,25 @@
+.skills-section {
+    padding: 2rem;
+    background-color: #ffffff;
+    text-align: center;
+  }
+  
+  .skills-section h2 {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+  }
+  
+  .skills-section ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .skills-section li {
+    display: inline-block;
+    margin: 0.5rem;
+    padding: 0.5rem 1rem;
+    background-color: #61dafb;
+    color: #fff;
+    border-radius: 5px;
+  }
+  
