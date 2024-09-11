@@ -12,7 +12,7 @@ const HeroSection = () => {
       <h1>Hi, I'm Adarsh Kumar</h1>
       <p>A Full-Stack Developer passionate about building web applications.</p>
       <div className="button-container">
-        <a href="#project" className="btn" id='projects'>See My Work</a>
+        <a href="#projects" className="btn">See My Work</a>
         <a href={resume} className="btn" download>Download Resume</a> {/* Download Button */}
       </div>
     </section>
